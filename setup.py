@@ -13,7 +13,7 @@ setup(
     name='data_wrangler',
     version='0.1.0',
     description='A modular data sanitization and exploration engine.',
-    author='Your Name', # Put your name here
+    author='Thivarshikan',
     packages=find_packages(),
     install_requires=[
         'pandas',
